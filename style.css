@@ -1,11 +1,11 @@
-@import url("styles/header.css");
-@import url("styles/banner.css");
+@import url("style/header.css");
+@import url("style/banner.css");
 
 :root{
 --cor-de-fundo:#EBECEE;
 --branco:#FFFFFF;
 --amarelo:#FECD2F;
---roxo:#800080;
+--roxo:#cf51cf;
 --preto:#000000;;
 --fonte-principal:"Poppins";
 --fonte-secundaria:"Josefin Sans";
